@@ -1,2 +1,2 @@
-rabbitmq:3.12.6-management
+rabbitmq:3.12-management
 ubuntu
